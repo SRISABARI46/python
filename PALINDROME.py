@@ -1,4 +1,4 @@
-#PALINDROME PROGRAM
+#PALINDROME PROGRAM IN PYTHON 
 
 user_input=input("Enter the word:")
 
